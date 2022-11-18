@@ -1,0 +1,151 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+secondtittle {
+    text-align: center;
+    font-size: 45px;
+}
+
+article2 {}
+
+a {
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: none;
+}
+
+.secondtittle {
+    text-align: center;
+}
+
+.secondtittlesubscript {
+    text-align: center;
+}
+
+.btn {
+    display: flex;
+}
+
+.btn1 {
+    padding: 5px 6px;
+    color: whitesmoke;
+    background-color: black;
+    position: relative;
+    margin-left: 592px;
+    margin-right: 16px;
+}
+
+.btn2 {
+    padding: 5px 6px;
+    background-color: orangered;
+    position: relative;
+}
+
+.secondcontainer {
+    display: flex;
+    margin-top: 1px;
+    justify-content: space-between;
+    position: relative;
+    margin-top: 50px;
+}
+
+.box3 {
+    border: 1.5px solid black;
+    background-color: yellow;
+    flex-basis: 20%;
+    position: relative;
+    margin-left: 104px;
+    margin-bottom: 20px;
+}
+
+.box3 h1 {
+    text-align: center;
+    font-size: 30px;
+    color: orangered;
+}
+
+.box3 p {
+    color: grey;
+}
+
+.box4 {
+    border: 1.5px solid black;
+    background-color: yellow;
+    flex-basis: 20%;
+    position: relative;
+    margin-right: 0;
+    margin-bottom: 20px;
+}
+
+.box4 h1 {
+    text-align: center;
+    font-size: 30px;
+    color: orangered;
+}
+
+.box4 p {
+    color: grey;
+}
+
+.box5 {
+    border: 1.5px solid black;
+    background-color: yellow;
+    flex-basis: 20%;
+    position: relative;
+    margin-right: 0;
+    margin-bottom: 20px;
+}
+
+.box5 h1 {
+    text-align: center;
+    font-size: 30px;
+    color: orangered;
+}
+
+.box5 p {
+    color: grey;
+}
+
+.box6 {
+    align-items: center;
+    border: 1.5px solid black;
+    background-color: yellow;
+    flex-basis: 20%;
+    position: relative;
+    margin-right: 156px;
+    margin-bottom: 20px;
+}
+
+.box6 h1 {
+    text-align: center;
+    font-size: 30px;
+    color: orangered;
+}
+
+.box6 p {
+    align-items: center;
+    color: grey;
+}
+
+.container25 {
+    display: flex;
+    justify-content: center;
+}
+
+.container25 image {}
